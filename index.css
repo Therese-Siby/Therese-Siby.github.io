@@ -1,0 +1,61 @@
+body, html {
+    height: 100%;
+    margin: 10;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(81, 82, 82);
+    align-items: center;
+    justify-content: center;
+  }
+  header{
+    position: fixed;
+    top:0;
+    width: 100%;
+  }
+  .navbar{
+    font-size: 1.25rem;
+  }
+  img{
+    height:15rem;
+    width:15rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 50%;
+    object-fit: fill;
+    border: 0.5rem solid;
+    border-color: rgb(224, 221, 42);
+  }
+  .responsive{
+    max-width: 15rem;
+    height: auto;
+  }
+  .Home {
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(81, 82, 82);
+    color: rgb(255, 255, 255);
+    padding: 100px 20px;
+    height: 100%;
+  }
+  span{
+    color: rgb(224, 221, 42);
+  }
+  .About {
+    color: rgb(255, 255, 255);
+    padding: 100px 20px;
+    height: 100%;
+  }
+  .Education{
+    color: rgb(255, 255, 255);
+    padding: 100px 20px;
+    height: 100%;
+  }
+  .Contact{
+    color: rgb(255, 255, 255);
+    padding: 100px 20px;
+    height: 100%;
+  }
+  .Skills{
+    color: rgb(255, 255, 255);
+    padding: 100px 20px;
+    height: 100%;
+  }
